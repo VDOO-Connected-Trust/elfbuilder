@@ -1,2 +1,2 @@
-# -elfbuilder
+# elfbuilder
 A wrapper around makelef
